@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gym-point/static/css/main.83875e3f.css",
-    "main.js": "/Gym-point/static/js/main.2109b10a.js",
+    "main.js": "/Gym-point/static/js/main.cd193125.js",
     "static/media/newfit11.jpg": "/Gym-point/static/media/newfit11.58aa86fa75e2852a5cd7.jpg",
     "static/media/fitness1.png": "/Gym-point/static/media/fitness1.38bbbc7084734fecab8a.png",
     "static/media/fitness4.png": "/Gym-point/static/media/fitness4.64ed6e52b6ca00f62d26.png",
@@ -19,10 +19,10 @@
     "static/media/fitness7.jpg": "/Gym-point/static/media/fitness7.b6bf23cf3ece94673ed6.jpg",
     "index.html": "/Gym-point/index.html",
     "main.83875e3f.css.map": "/Gym-point/static/css/main.83875e3f.css.map",
-    "main.2109b10a.js.map": "/Gym-point/static/js/main.2109b10a.js.map"
+    "main.cd193125.js.map": "/Gym-point/static/js/main.cd193125.js.map"
   },
   "entrypoints": [
     "static/css/main.83875e3f.css",
-    "static/js/main.2109b10a.js"
+    "static/js/main.cd193125.js"
   ]
 }
